@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Varsha Usha Sunil Babu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+            font-size: 24px;
+        }
+        nav {
+            background: #1a252f;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .contact-info {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 10px 0;
+        }
+        .contact-info a {
+            color: #2980b9;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #2c3e50;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Contact Me
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container">
+        <h1>📬 Get in Touch</h1>
+        <p class="contact-info">
+            Feel free to reach out to me for collaborations, opportunities, or just to chat about data science, AI, and risk analytics!
+        </p>
+        
+        <div class="contact-info">
+            <p>📧 <strong>Email:</strong> <a href="mailto:varshaushasunilbabu@gmail.com">varshaushasunilbabu@gmail.com</a></p>
+            <p>📞 <strong>Phone (UK):</strong> +44 7747679168</p>
+            <p>📞 <strong>Phone (India):</strong> +91 7561887043</p>
+            <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/VarshaUshaSunilBabu" target="_blank">VarshaUshaSunilBabu</a></p>
+            <p>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/varsha-usha-sunil-babu" target="_blank">Varsha Usha Sunil Babu</a></p>
+        </div>
+    </div>
+    <footer>
+        <p>📧 Email: <a href="mailto:varshaushasunilbabu@gmail.com">varshaushasunilbabu@gmail.com</a></p>
+        <p>📞 Contact: +44 7747679168 | +91 7561887043</p>
+        <p>🔗 <a href="https://github.com/VarshaUshaSunilBabu">GitHub</a> | <a href="https://www.linkedin.com/in/varsha-usha-sunil-babu">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
